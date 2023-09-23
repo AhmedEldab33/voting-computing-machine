@@ -7,3 +7,6 @@ if you want to show the result, press 5 on KPAD.
 
 # drivers used :
 DIO - LCD - KPAD
+
+Note :
+The main code is in file main.c
